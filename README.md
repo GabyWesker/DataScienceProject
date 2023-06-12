@@ -7,8 +7,11 @@ Este repositorio contiene el trabajo final realizado por Gabriel Reyna para el c
 **Estructura del repositorio**
 
 -El archivo principal del proyecto es "Trabajo_Coderhouse_Reyna_Gabriel.ipynb", el cual contiene el código y la explicación detallada del análisis realizado.
+
 -El archivo "Bankchurners.csv" es el conjunto de datos utilizado en el proyecto. Este archivo contiene la información necesaria para llevar a cabo el análisis.
+
 -El archivo "Presentacion_Reyna_Gabriel.pptx" contiene la presentación utilizada para mostrar los resultados del análisis de datos.
+
 -El archivo "README.md" (este archivo) proporciona una descripción general del proyecto y su estructura.
 
 **Descripción del proyecto**
